@@ -1,0 +1,10 @@
+Cria-se um repositório > clona ela pegando o link no GitHub > Joga no git com "git clone">
+Depois cria-se uma pasta no pc onde quero > entro nela pelo Git através do comando "cd + nome da pasta">
+"git status": para ver como está >
+uso o comando "git add ." para adicionar a pasta ao GitHub
+crio qualquer arquivo dentro da pasta >
+para adicioná-lo ao GitHub, uso o comando "git commit -m + "nome do que será"" >
+e por fim "git push origin main".
+
+ 
+

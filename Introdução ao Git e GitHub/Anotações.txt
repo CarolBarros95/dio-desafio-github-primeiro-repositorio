@@ -1,1 +1,6 @@
-Abrir uma pasta > criar documento de texto > 
+Colocar no controle de versão local: Abrir uma pasta > criar documento de texto > 
+dentro do Git colocar cd e o nome da pasta que quer entrar > 
+para atualizara pasta coloca git add . para adicionar todos os arquivos > depois git status para ver se deu certo >
+para subir no GitHub git commit -m "Inclusão das anotações do curso de Git/GitHub" >
+depois git push origin main para subir pro GitHub
+
